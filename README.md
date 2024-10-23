@@ -1,6 +1,7 @@
 # dashboard_user_interface
 
 A new Flutter project.
+![screenshot](assets/images/screenshot.PNG)
 
 ## Getting Started
 
